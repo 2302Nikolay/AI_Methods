@@ -1,0 +1,17 @@
+name: rcaeval-ai
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - pandas=2.3
+  - numpy=2.2
+  - matplotlib-base=3.10
+  - seaborn-base=0.13
+  - pyarrow=21
+  - huggingface_hub=0.35
+  - jupyterlab=4
+  - ipykernel=6
+  - nbformat=5
+  - nbconvert-core=7
+  - nbclient=0.10
