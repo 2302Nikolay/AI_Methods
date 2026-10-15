@@ -8,6 +8,12 @@ dependencies:
   - numpy=2.2
   - matplotlib-base=3.10
   - seaborn-base=0.13
+  - scikit-learn=1.7
+  - scipy=1.17
+  - statsmodels=0.14
+  - umap-learn=0.5
+  - pillow=12
+  - pytorch=2.14.1=cpu_generic*
   - pyarrow=21
   - huggingface_hub=0.35
   - jupyterlab=4
